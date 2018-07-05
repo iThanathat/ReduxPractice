@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import Member from './Member';
+import Member from './components/Member';
 import './App.css';
 import { store } from "./store";
 import ButtonGroup from "./components/ButtonGroup";
